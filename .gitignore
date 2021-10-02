@@ -23,11 +23,14 @@ ipch
 *.user
 *.sdf
 *.suo
+*.sln
+*.vcxproj
 *.VC.db
 *.VC.VC.opendb
 
 ## Commonly used CMake directories
 /build*/
+/bin*/
 
 ## Xcode artifacts
 project.xcworkspace
